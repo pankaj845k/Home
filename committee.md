@@ -32,6 +32,18 @@
 
 ##FOSS
 ###Coordinators
+* [Pankaj Kumawat](https://github.com/pankaj845k)
+* Shivam Singh
+
+###Members
+* Vinnel
+* Chakshu Bhatia
+* Archi
+* Ravi Shankar
+* Lakshya
+
+##FOSS
+###Coordinators
 * [Anurag Das](https://github.com/shadowwalkers)
 * [Amol Upraity](https://github.com/vampcoder)
 
