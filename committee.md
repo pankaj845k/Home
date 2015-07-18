@@ -42,6 +42,20 @@
 * [Kaustubh Shamshery](https://github.com/KaustubhShamshery) 
 * Sarthak Panda
 
+
+##Tesla
+###Coordinators
+* [Pankaj Kumawat](https://github.com/pankaj845k)
+* Shivam singh
+
+###Members
+*Vineel
+*Chakshu Bhatia
+*Archi
+*Ravi Shankar 
+*Lakshya 
+
+
 ##App Development
 ###Coordinators
 
