@@ -30,6 +30,18 @@
 * [Utkarsh Sahu](https://github.com/utkarshsahu)
 * Akhila Jetty
 
+##Tesla
+###Coordinators
+* [Pankaj Kumawat](https://github.com/pankaj845k)
+* Shivam Singh
+
+###Members
+* Vinnel
+* Chakshu Bhatia
+* Archi
+* Ravi Shankar 
+* Lakshya
+
 ##FOSS
 ###Coordinators
 * [Anurag Das](https://github.com/shadowwalkers)
